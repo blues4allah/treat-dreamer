@@ -1,0 +1,29 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3882020, 2020-03-20T13:54:18-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: VenusSB-Medium by Scangraphic Digital Type Collection
+ * URL: https://www.myfonts.com/fonts/efscangraphic/venus-sb/medium/
+ * Copyright: Copyright of design and/or Trademark by Scangraphic PrePress Technology GmbH or its licensors. Copyright of digital font software by Elsner+Flake Type Consulting GmbH. This font software may not be reproduced, modified, decoded, disclosed or transferred w
+ * 
+ * 
+ * 
+ * © 2020 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3b3c24");
+  
+@font-face {
+  src: url('webFonts/VenusSB-Medium/font.eot');
+  font-family: 'VenusSB-Medium';
+  src: url('webFonts/VenusSB-Medium/font.woff2') format('woff2'), url('webFonts/VenusSB-Medium/font.woff') format('woff'), url('webFonts/VenusSB-Medium/font.eot?#iefix') format('embedded-opentype'), url('webFonts/VenusSB-Medium/font.ttf') format('truetype');
+}
+
