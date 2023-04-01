@@ -38,6 +38,13 @@ h1 {
 	letter-spacing: 1px;
 }
 
+p {
+	font-family: "Roslindale", serif;
+	text-align: center;
+	font-size: 20px;
+	color: #ff5236;
+}
+
 h2 {
 	margin: 0 auto 60px auto;
 	font-family: "VenusSB-Medium", sans-serif;
