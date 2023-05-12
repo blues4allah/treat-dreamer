@@ -30,10 +30,10 @@ a:hover {
 h1 {
 	font-family: "Roslindale", serif;
 	text-align: center;
-	font-size: 100px;
-	color: #ff5236;
+	font-size: 38px;
+	color: #fff;
 	margin: 0 0 14px 0;
-	padding: 100px 0 0 0;
+	padding: 250px 0 0 0;
 	font-weight: 400;
 	letter-spacing: 1px;
 }
@@ -117,7 +117,7 @@ p {
 
 body {
 	background-image: url("../jasmine.png");
-	background-position: center top;
+	background-position: center top -400px;
 	font-size: 18px;
 	margin: 0;
 	background-size: 100%
@@ -600,7 +600,7 @@ iframe {
 }
 
 .page-img iframe {
-	margin-top:100px;
+	margin-top:50px;
 }
 
 #overall-process p {
